@@ -1,2 +1,5 @@
-# file-available-script
-Simple script to check if a file exists or not
+# Auth Log Exists
+
+Simple script to check if a file exists or not.
+
+Just change the variables according to your requirement.
